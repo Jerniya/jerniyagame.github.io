@@ -1,0 +1,65 @@
+body{
+  
+    background-image:url("bguu.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: repeat;
+background-blend-mode:soft-light;
+
+
+}
+.pic{
+    margin:200px 500px 0px 300px;
+}
+
+#rock,#scis,#paper{
+    width: 100px;
+    height: 4cm;
+    margin:0px 25px 100px;
+}
+
+
+
+#display{
+    width:15cm;
+    height:1.5cm;
+    margin:0px 700px 10px 0px;
+    border-radius: 2cm;
+    background-color:darkgrey;
+    border-style: groove;
+    font-size: larger;
+    color: rgb(63, 10, 3);
+    font-style: italic;
+    text-align: center;
+    text-decoration: wavy;
+}
+#start{
+    border-style:dotted ;
+    border-radius: 44cm;
+    width:3cm;
+    height:3cm;
+    margin:5px 200px 25px;
+    background-color: rgb(131, 213, 50);
+  
+    box-shadow: 0px 0px 15px rgb(207, 227, 176);
+    font-size: larger;
+    text-align: center;
+    color:black;
+    
+}
+#start:hover{
+    background-color: crimson;
+}
+
+
+#computer{
+    width:3cm;
+    height:4cm;
+    border-radius:0.5cm;
+    box-shadow:1px 1px 35px rgb(150, 63, 231);
+   
+   
+}
+#i{
+    display:flex;
+}
