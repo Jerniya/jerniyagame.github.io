@@ -1,1 +1,1 @@
-# jerniyagame.github.io
+A SIMPLE ROCK PAPER SCISSOR GAME!!!!!
